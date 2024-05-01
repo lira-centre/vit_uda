@@ -1,0 +1,6 @@
+python3 extract_uda_features.py UDA_CLIPART
+python3 extract_uda_features.py UDA_SKETCH
+python3 extract_uda_features.py UDA_REAL
+python3 extract_uda_features.py UDA_PAINTING
+python3 extract_uda_features.py UDA_INFOGRAPH
+python3 extract_uda_features.py UDA_QUICKDRAW
