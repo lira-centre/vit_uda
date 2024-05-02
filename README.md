@@ -3,6 +3,8 @@
 Paper: 
 Dmitry Kangin & Plamen Angelov (2024), Unsupervised Domain Adaptation Within Deep Foundation Latent Spaces, ICLR workshop on Mathematical and Empirical Understanding of Foundation Models, 2024
 
+![domain_adaptation_scheme](https://github.com/lira-centre/vit_uda/assets/5869514/b0e8bbcd-e557-44d7-9e87-37b6c31341cc)
+
 This code is provided for the purposes of reproducibility. The instructions for running the code are given below. 
 
 1. Download DomainNet dataset from here: http://ai.bu.edu/M3SDA/ and put it in the folder ../UnsupervisedDomainAdaptation
