@@ -5,7 +5,9 @@ Dmitry Kangin & Plamen Angelov (2024), Unsupervised Domain Adaptation Within Dee
 
 ![domain_adaptation_scheme](https://github.com/lira-centre/vit_uda/assets/5869514/b0e8bbcd-e557-44d7-9e87-37b6c31341cc)
 
-This code is provided for the purposes of reproducibility. The instructions for running the code are given below. 
+The methodology scheme: (1) the images from multiple domains (e.g., sketches and real images) are embedded into the feature space and, for each domain, separately clustered using $k$-means. The cluster centroids for one of the domains ('source domain'), shown in bright colour in the figure and referred to as 'prototypes', are provided with labels. (2) Domain adaptation is performed through inter-domain cluster matches with $\ell^2$ or Wasserstein distance. (3) Decision making through nearest-neighbour prototype classifier performs the prediction
+
+The instructions for running the code are given below. 
 
 1. Download DomainNet dataset from here: http://ai.bu.edu/M3SDA/ and put it in the folder ../UnsupervisedDomainAdaptation
 2. Run extract_all_features_uda.sh for feature extraction
