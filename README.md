@@ -3,7 +3,7 @@
 Paper: 
 Dmitry Kangin & Plamen Angelov (2024), Unsupervised Domain Adaptation Within Deep Foundation Latent Spaces, ICLR workshop on Mathematical and Empirical Understanding of Foundation Models, 2024
 
-![Paper URL](https://openreview.net/forum?id=5z5XyMqZXW&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FWorkshop%2FME-FoMo%2FAuthors%23your-submissions))
+!(https://openreview.net/forum?id=5z5XyMqZXW&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FWorkshop%2FME-FoMo%2FAuthors%23your-submissions))
 
 ![domain_adaptation_scheme](https://github.com/lira-centre/vit_uda/assets/5869514/b0e8bbcd-e557-44d7-9e87-37b6c31341cc)
 
